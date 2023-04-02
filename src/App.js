@@ -12,6 +12,7 @@ function App() {
       <Navbarr />
       <Routes>
         <Route path="/" element={<Main /> }></Route>
+        <Route path="home" element={<Main /> }></Route>
       </Routes>
 
     </div>
